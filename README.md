@@ -30,6 +30,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🚀 Como executar o projeto
 
+### Pré-requisitos
+Antes de começar você precisa ter instalado em sua maquina o docker
+
 ### 🎲 Rodando o Back End (servidor)
 
 ```bash
@@ -44,5 +47,4 @@ $ docker-compose up
 
 # Executar o serviro
 $ yarn dev
-
 ```
