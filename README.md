@@ -45,6 +45,6 @@ $ yarn
 # Subir o ambiente de banco de dados atravez do docker
 $ docker-compose up
 
-# Executar o serviro
+# Executar o servidor
 $ yarn dev
 ```
